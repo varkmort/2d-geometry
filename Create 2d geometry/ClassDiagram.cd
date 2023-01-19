@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Point2d">
+    <Position X="7.75" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAACAAAAAAAAACAYAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Create 2d geometry.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segment2d">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACAAAEBAAAAEAAAAAQAAAAAIAAAgAAAAAACAA=</HashCode>
+      <FileName>Create 2d geometry.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line2d">
+    <Position X="4.75" Y="1" Width="2.75" />
+    <NestedTypes>
+      <Struct Name="Line2d::LinePoint">
+        <TypeIdentifier>
+          <NewMemberFileName>Create 2d geometry.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAABAAAAAAAAABQAAAAAAAAAAAAQAAAACA=</HashCode>
+      <FileName>Create 2d geometry.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
